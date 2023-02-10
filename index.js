@@ -1,6 +1,6 @@
 let a = {
     name: "나",
-    phone: 8210513880188,
+    phone: 821000000000,
     email: "you8inpark@gmail.com",
     adult: false,
 };
