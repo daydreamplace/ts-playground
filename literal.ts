@@ -21,7 +21,7 @@ const m = "머머리" | "빡빡이";
 
 let 자료 = {
   name: "kim",
-};
+} as const;
 
 자료.name;
 

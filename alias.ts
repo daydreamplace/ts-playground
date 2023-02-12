@@ -1,3 +1,9 @@
+type NumType = (x: number, y: number) => number;
+
+let num: NumType = function (x, y) {
+  return x + y;
+};
+
 // type 함수타입 = (a: string) => number;
 
 // let 함수: 함수타입 = function (a) {
